@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="A cafe design ideation board inspired by the reference site and rebuilt around a full local image library."
+    />
+    <title>DevGanga Cafe Design Ideation</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Cormorant+Garamond:wght@500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero" id="top">
+        <nav class="topbar">
+          <a class="brand" href="#top">
+            <span class="brand-mark" id="brand-mark">DG</span>
+            <span class="brand-copy">
+              <strong>DevGanga</strong>
+              <small>Cafe Design Ideation</small>
+            </span>
+          </a>
+          <div class="topbar-links">
+            <a href="#story">Story</a>
+            <a href="#location">Location</a>
+            <a href="#themes">Themes</a>
+            <a href="#boards">Boards</a>
+          </div>
+        </nav>
+
+        <div class="hero-backdrop" aria-hidden="true">
+          <div class="hero-glow hero-glow-a"></div>
+          <div class="hero-glow hero-glow-b"></div>
+          <div class="hero-grid" id="hero-grid"></div>
+        </div>
+
+        <div class="hero-copy">
+          <p class="eyebrow">Reference-inspired rebuild for Rishikesh</p>
+          <h1>Design-brew moodboards, rebuilt around your full image library.</h1>
+          <p class="hero-text">
+            This version keeps the spirit of the reference website and reframes
+            it around your full local image library across four cafe concepts.
+          </p>
+          <div class="hero-actions">
+            <a class="button button-primary" href="#themes">Explore Design Themes</a>
+            <a class="button button-secondary" href="#boards">Open Image Boards</a>
+          </div>
+          <dl class="hero-stats" id="hero-stats"></dl>
+        </div>
+      </header>
+
+      <main>
+        <section class="story section" id="story">
+          <div class="section-heading">
+            <p class="eyebrow">The Narrative</p>
+            <h2>A similar structure, rebuilt around the full moodboard library.</h2>
+          </div>
+
+          <div class="story-layout">
+            <article class="story-card story-card-copy">
+              <h3>The Sacred Energy of Rishikesh</h3>
+              <p>
+                The original site framed the cafe around Rishikesh: a place
+                where the Ganges, yoga culture, handcrafted materials, and
+                traveler energy all meet. This rebuild keeps that north star and
+                turns it into a practical design board that actually renders the
+                images you supplied.
+              </p>
+              <p>
+                The boards below draw directly from your local folders,
+                including file names with spaces and special characters, so the
+                full reference collection stays part of the presentation.
+              </p>
+            </article>
+
+            <div class="story-card story-card-highlights" id="highlights"></div>
+          </div>
+        </section>
+
+        <section class="location section" id="location">
+          <div class="section-heading">
+            <p class="eyebrow">Rishikesh Context</p>
+            <h2>Location, nearby landmarks, and what this ideation is meant to give.</h2>
+          </div>
+
+          <div class="location-layout">
+            <article class="story-card location-copy">
+              <h3 id="location-title">Rishikesh, Uttarakhand</h3>
+              <p>
+                Set in the Himalayan foothills along the Ganges, Rishikesh blends
+                spiritual calm, river energy, traveler culture, yoga, craft, and
+                café life in a way that naturally supports multiple design moods.
+              </p>
+              <p>
+                This ideation translates that setting into four usable interior
+                directions, so the cafe can feel rooted in place while still
+                offering distinct guest experiences.
+              </p>
+            </article>
+
+            <div class="location-stack">
+              <article class="story-card location-brief">
+                <h3>What The Ideation Gives</h3>
+                <p>
+                  A moodboard-led concept system for the cafe: one retro, one
+                  boho, one Indian craft-forward, and one moto-industrial. Each
+                  board turns visual references into a clearer design language,
+                  palette, and atmosphere.
+                </p>
+              </article>
+
+              <article class="story-card map-card">
+                <h3>Google Earth Style Satellite View</h3>
+                <div class="map-frame">
+                  <iframe
+                    title="Rishikesh satellite view"
+                    loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27534.39!2d78.2681!3d30.0872!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39093e67cf93f111%3A0xcc78e2d6e6d8de86!2sRishikesh%2C%20Uttarakhand!5e1!3m2!1sen!2sin!4v1234567890"
+                  ></iframe>
+                </div>
+                <p class="map-note">
+                  A satellite-style view helps anchor the concept in the river,
+                  terrain, and valley setting that inspires the overall mood.
+                </p>
+              </article>
+            </div>
+          </div>
+
+          <div class="places-grid">
+            <article class="highlight-card place-card">
+              <strong>Triveni Ghat</strong>
+              <span>Known for evening aarti and devotional atmosphere by the river.</span>
+            </article>
+            <article class="highlight-card place-card">
+              <strong>Laxman Jhula</strong>
+              <span>An iconic suspension bridge with a strong visual identity and traveler energy.</span>
+            </article>
+            <article class="highlight-card place-card">
+              <strong>Parmarth Niketan</strong>
+              <span>A major yoga and spiritual destination that informs the calm, reflective side of the brief.</span>
+            </article>
+            <article class="highlight-card place-card">
+              <strong>Beatles Ashram</strong>
+              <span>A layered cultural landmark that brings history, art, and meditative nostalgia into the mix.</span>
+            </article>
+          </div>
+        </section>
+
+        <section class="overview section" id="themes">
+          <div class="section-heading">
+            <p class="eyebrow">Theme Overview</p>
+            <h2>Four cafe directions, each mapped to your actual image folders.</h2>
+          </div>
+          <div class="theme-card-grid" id="theme-card-grid"></div>
+        </section>
+
+        <section class="boards section" id="boards">
+          <div class="section-heading">
+            <p class="eyebrow">Interactive Boards</p>
+            <h2>Switch between themes and browse every image in the folder set.</h2>
+          </div>
+
+          <div class="theme-switcher" id="theme-switcher" role="tablist" aria-label="Theme boards"></div>
+          <div class="theme-panels" id="theme-panels"></div>
+        </section>
+      </main>
+
+      <footer class="footer">
+        <p>DevGanga Cafe Design Ideation</p>
+        <p>Reference-inspired layout, rebuilt around your local image archive.</p>
+      </footer>
+    </div>
+
+    <dialog class="lightbox" id="lightbox">
+      <form method="dialog" class="lightbox-shell">
+        <button class="lightbox-close" aria-label="Close image viewer">Close</button>
+        <div class="lightbox-toolbar">
+          <button class="lightbox-nav" type="button" id="lightbox-prev" aria-label="Previous image">
+            Prev
+          </button>
+          <button class="lightbox-nav" type="button" id="lightbox-next" aria-label="Next image">
+            Next
+          </button>
+        </div>
+        <img id="lightbox-image" alt="" />
+        <p id="lightbox-caption"></p>
+      </form>
+    </dialog>
+
+    <script src="image-data.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
