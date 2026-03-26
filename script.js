@@ -7,9 +7,9 @@ const themeMeta = [
     name: "Retro Classic",
     featured: [
       "Gemini_Generated_Image_dbsqindbsqindbsq.png",
+      "IMG_1685_master.jpg",
+      "8822393_master.jpg",
       "focus.jpeg",
-      "detail-1.jpeg",
-      "detail-2.jpeg",
     ],
     tagline: "Timeless elegance meets warm vintage charm",
     ideaNote:
@@ -44,7 +44,7 @@ const themeMeta = [
     featured: [
       "Gemini_Generated_Image_iy40n9iy40n9iy40.png",
       "boho-chic-cafe-interior-design-5.jpg",
-      "download (6).jpeg",
+      "Blog.jpeg",
       "Yoga & Zen_ Inspiration for the perfect space_.jpeg",
     ],
     tagline: "Nature-led calm with spiritual softness",
@@ -114,10 +114,10 @@ const themeMeta = [
     folder: "moto cafe",
     name: "Moto Cafe",
     featured: [
-      "IMG_1685_master.jpg",
-      "8822393_master.jpg",
       "Whiskey bottle pendant light.jpeg",
       "Engine Coffee Table Alfa Romeo V6 BUSSO - Etsy.jpeg",
+      "Bottle Cap Retro Wall Decor.jpeg",
+      "dekor.jpeg",
     ],
     tagline: "Industrial grit with a playful rebel streak",
     ideaNote:

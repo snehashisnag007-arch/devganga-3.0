@@ -7,6 +7,7 @@
                       "images/Boho Chic/80eb374b627e015d7a2a421a85776445.jpg",
                       "images/Boho Chic/a-boho-chic-home-office-with-rattan-furniture-open-shelving-macrame-hangings-and-a-botanical-poster-potted-plants-and-round-pillows.jpg",
                       "images/Boho Chic/Best Office Plants for Spaces Without Windows - dialysehub_com.jpeg",
+                      "images/Boho Chic/Blog.jpeg",
                       "images/Boho Chic/Boho Macrame Hanging Swing - Elevate Any Small Space.jpeg",
                       "images/Boho Chic/boho-chic-cafe-interior-design-5.jpg",
                       "images/Boho Chic/Choosing Window Dressings for a Bright and Airy Living Room.jpeg",
@@ -42,6 +43,7 @@
                       "images/Indian river/Mary Natural Indigo Dyed Block Printed Tunic - SM.jpeg",
                       "images/Indian river/Pichwai Paintings - Buy Modern Pichwai Wall Paintings \u0026 Art Online _ Kalavaati.jpeg",
                       "images/Indian river/Rhys Seating Collection.jpeg",
+                      "images/Indian river/The Potter\u0027s Wheel_..Khurja!",
                       "images/Indian river/Women\u0027s \u0026 Men\u0027s Clothing, Shop Online Fashion.jpeg",
                       "images/Indian river/משרביה - עץ או מתכת לפי מידה - דגם סינטרה _ ענבל משרביות.jpeg"
                   ]
@@ -51,7 +53,6 @@
         "files":  [
                       "images/moto cafe/#art #classic #fashion #interiordesign #lifestyle #ideas #inspiration #bicycle.jpeg",
                       "images/moto cafe/#art #graphic #design #poster #retro.jpeg",
-                      "images/moto cafe/8822393_master.jpg",
                       "images/moto cafe/Bottle Cap Retro Wall Decor.jpeg",
                       "images/moto cafe/dekor.jpeg",
                       "images/moto cafe/download (12).jpeg",
@@ -62,7 +63,6 @@
                       "images/moto cafe/download (17).jpeg",
                       "images/moto cafe/Engine Coffee Table Alfa Romeo V6 BUSSO - Etsy.jpeg",
                       "images/moto cafe/I don\u0027t care - funny sarcastic restro style.jpeg",
-                      "images/moto cafe/IMG_1685_master.jpg",
                       "images/moto cafe/Nigikala Rapper Posters Hip Hop The Weeknd Wiken Potted Brother Quality Vintage Kraft Paper Painting Poster Living Room Wall Decor 20 13x18cm 5 1x7in.jpeg",
                       "images/moto cafe/No frames no visible support.jpeg",
                       "images/moto cafe/-ℛℰ℘i ℕnℰD by Averson Automotive Group LLC.jpeg",
@@ -75,9 +75,9 @@
         "files":  [
                       "images/Retro/30 Library Wall and Modern Bookshelf Designs for Your Home - BambRise.jpeg",
                       "images/Retro/7 Fun Decor Ideas for a Playful Maximalist Home.jpeg",
+                      "images/Retro/8822393_master.jpg",
                       "images/Retro/Ajoutez une touche vintage à votre intérieur avec les ampoules edison_.jpeg",
                       "images/Retro/Amber Orange Connor Table Lamp.jpeg",
-                      "images/Retro/Blog.jpeg",
                       "images/Retro/Counter Stool — Dean Babin Furniture.jpeg",
                       "images/Retro/detail-1.jpeg",
                       "images/Retro/detail-2.jpeg",
@@ -87,6 +87,7 @@
                       "images/Retro/Gemini_Generated_Image_d37tn0d37tn0d37t.png",
                       "images/Retro/Gemini_Generated_Image_dbsqindbsqindbsq.png",
                       "images/Retro/Gemini_Generated_Image_y1wvw6y1wvw6y1wv.png",
+                      "images/Retro/IMG_1685_master.jpg",
                       "images/Retro/Vintage Brown Leather Chesterfield Two Seat Sofa Loveseat, England Circa 1960-80.jpeg"
                   ]
     }
